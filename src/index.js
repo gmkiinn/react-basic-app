@@ -1,8 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import App from './App';
+import 'bootstrap/dist/css/bootstrap.css';
+// import 'font-awesome/css/font-awesome.min.css';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+// How to install and use bootstrap library
+// How to bootstrap components
 
 ReactDOM.render(
   <React.StrictMode>
